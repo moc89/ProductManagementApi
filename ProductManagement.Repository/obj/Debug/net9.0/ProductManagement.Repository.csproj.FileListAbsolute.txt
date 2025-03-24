@@ -1,0 +1,12 @@
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.csproj.AssemblyReference.cache
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.AssemblyInfoInputs.cache
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.AssemblyInfo.cs
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.csproj.CoreCompileInputs.cache
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/bin/Debug/net9.0/ProductManagement.Repository.deps.json
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/bin/Debug/net9.0/ProductManagement.Repository.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/bin/Debug/net9.0/ProductManagement.Repository.pdb
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/refint/ProductManagement.Repository.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ProductManagement.Repository.pdb
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/Debug/net9.0/ref/ProductManagement.Repository.dll

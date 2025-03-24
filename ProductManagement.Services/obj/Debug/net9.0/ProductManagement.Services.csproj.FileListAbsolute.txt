@@ -1,0 +1,15 @@
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/bin/Debug/net9.0/ProductManagement.Services.deps.json
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/bin/Debug/net9.0/ProductManagement.Services.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/bin/Debug/net9.0/ProductManagement.Services.pdb
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/bin/Debug/net9.0/ProductManagement.Repository.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/bin/Debug/net9.0/ProductManagement.Repository.pdb
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.csproj.AssemblyReference.cache
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.AssemblyInfoInputs.cache
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.AssemblyInfo.cs
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.csproj.CoreCompileInputs.cache
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductM.9B44A000.Up2Date
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/refint/ProductManagement.Services.dll
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ProductManagement.Services.pdb
+/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/Debug/net9.0/ref/ProductManagement.Services.dll
