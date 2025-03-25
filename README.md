@@ -71,7 +71,7 @@ The **Product Management API** is a RESTful web service built with .NET9 that al
 
 ## Improvements & Next Steps
 - Implement proper logging with **Serilog** or another logging provider.
-- Add **Unit Tests** service layers.
+- Add more **Unit Tests** for service layers.
 - Implement a database (e.g., **SQL Server, PostgreSQL**) for persistent data storage.
 
 ## License
