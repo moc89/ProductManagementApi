@@ -53,7 +53,7 @@ The **Product Management API** is a RESTful web service built with .NET9 that al
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/moc89/ProductManagementApi.git
    ```
 2. Navigate to the project folder:
    ```sh
