@@ -679,11 +679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj",
+      "projectUniqueName": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj",
       "projectName": "ProductManagement.Api",
-      "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj",
+      "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj",
       "packagesPath": "/Users/busracelebi/.nuget/packages/",
-      "outputPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/obj/",
+      "outputPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/busracelebi/.nuget/NuGet/NuGet.Config"
@@ -698,8 +698,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj": {
-              "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj"
+            "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj": {
+              "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj"
             }
           }
         }

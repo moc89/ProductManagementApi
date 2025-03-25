@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gyr2xX2UOM8=",
+  "dgSpecHash": "2vX1ggjQ6q8=",
   "success": true,
-  "projectFilePath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj",
+  "projectFilePath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj",
   "expectedPackageFiles": [
     "/Users/busracelebi/.nuget/packages/microsoft.entityframeworkcore/9.0.3/microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "/Users/busracelebi/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.3/microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",

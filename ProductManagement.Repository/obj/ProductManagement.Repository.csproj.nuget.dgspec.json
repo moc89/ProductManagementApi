@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj": {}
+    "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj": {}
   },
   "projects": {
-    "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj": {
+    "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj",
+        "projectUniqueName": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj",
         "projectName": "ProductManagement.Repository",
-        "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj",
+        "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj",
         "packagesPath": "/Users/busracelebi/.nuget/packages/",
-        "outputPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/",
+        "outputPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/busracelebi/.nuget/NuGet/NuGet.Config"

@@ -303,7 +303,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.OpenApi/1.6.23": {
+      "Microsoft.OpenApi/1.6.17": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
@@ -832,41 +832,6 @@
             "rid": "ubuntu.16.10-x64"
           }
         }
-      },
-      "Swashbuckle.AspNetCore.Swagger/8.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.OpenApi": "1.6.23"
-        },
-        "compile": {
-          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "Swashbuckle.AspNetCore.SwaggerUI/8.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       },
       "System.AppContext/4.3.0": {
         "type": "package",
@@ -2045,9 +2010,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.2",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.3",
-          "ProductManagement.Services": "1.0.0",
-          "Swashbuckle.AspNetCore.Swagger": "8.0.0",
-          "Swashbuckle.AspNetCore.SwaggerUI": "8.0.0"
+          "ProductManagement.Services": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProductManagement.Api.dll": {}
@@ -2652,10 +2615,10 @@
         "runtime.json"
       ]
     },
-    "Microsoft.OpenApi/1.6.23": {
-      "sha512": "tZ1I0KXnn98CWuV8cpI247A17jaY+ILS9vvF7yhI0uPPEqF4P1d7BWL5Uwtel10w9NucllHB3nTkfYTAcHAh8g==",
+    "Microsoft.OpenApi/1.6.17": {
+      "sha512": "Le+kehlmrlQfuDFUt1zZ2dVwrhFQtKREdKBo+rexOwaCoYP0/qpgT9tLxCsZjsgR5Itk1UKPcbgO+FyaNid/bA==",
       "type": "package",
-      "path": "microsoft.openapi/1.6.23",
+      "path": "microsoft.openapi/1.6.17",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2663,7 +2626,7 @@
         "lib/netstandard2.0/Microsoft.OpenApi.dll",
         "lib/netstandard2.0/Microsoft.OpenApi.pdb",
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.1.6.23.nupkg.sha512",
+        "microsoft.openapi.1.6.17.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
     },
@@ -3169,48 +3132,6 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
-      ]
-    },
-    "Swashbuckle.AspNetCore.Swagger/8.0.0": {
-      "sha512": "+8Y4pVTWbnzotIk6d6rcwsHGpCchPDqqrvYkyGlI3go+pFaKM+4eX30iCyI0hvr0RMtObJCFhK6aDtlQFbEF1g==",
-      "type": "package",
-      "path": "swashbuckle.aspnetcore.swagger/8.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll",
-        "lib/net8.0/Swashbuckle.AspNetCore.Swagger.pdb",
-        "lib/net8.0/Swashbuckle.AspNetCore.Swagger.xml",
-        "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll",
-        "lib/net9.0/Swashbuckle.AspNetCore.Swagger.pdb",
-        "lib/net9.0/Swashbuckle.AspNetCore.Swagger.xml",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.pdb",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
-        "package-readme.md",
-        "swashbuckle.aspnetcore.swagger.8.0.0.nupkg.sha512",
-        "swashbuckle.aspnetcore.swagger.nuspec"
-      ]
-    },
-    "Swashbuckle.AspNetCore.SwaggerUI/8.0.0": {
-      "sha512": "IMqmgclFiZL2QIfopOmWYofZzckrl+SdMt1h4mKC0jc94F+uzt3IHA3YFC0CGlwBqTTSnxHqNUKomNTeAhZbYA==",
-      "type": "package",
-      "path": "swashbuckle.aspnetcore.swaggerui/8.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
-        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
-        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
-        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
-        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
-        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
-        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
-        "package-readme.md",
-        "swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512",
-        "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -6405,11 +6326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.UnitTest/ProductManagement.UnitTest.csproj",
+      "projectUniqueName": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.UnitTest/ProductManagement.UnitTest.csproj",
       "projectName": "ProductManagement.UnitTest",
-      "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.UnitTest/ProductManagement.UnitTest.csproj",
+      "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.UnitTest/ProductManagement.UnitTest.csproj",
       "packagesPath": "/Users/busracelebi/.nuget/packages/",
-      "outputPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.UnitTest/obj/",
+      "outputPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.UnitTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/busracelebi/.nuget/NuGet/NuGet.Config"
@@ -6424,14 +6345,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj": {
-              "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj"
+            "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj": {
+              "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj"
             },
-            "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj": {
-              "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj"
+            "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj": {
+              "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj"
             },
-            "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj": {
-              "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj"
+            "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj": {
+              "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj"
             }
           }
         }

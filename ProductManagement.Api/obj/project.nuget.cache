@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z8h/DEJ50t8=",
+  "dgSpecHash": "zq9BA0zwA90=",
   "success": true,
-  "projectFilePath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj",
+  "projectFilePath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj",
   "expectedPackageFiles": [
     "/Users/busracelebi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
     "/Users/busracelebi/.nuget/packages/microsoft.entityframeworkcore/9.0.3/microsoft.entityframeworkcore.9.0.3.nupkg.sha512",

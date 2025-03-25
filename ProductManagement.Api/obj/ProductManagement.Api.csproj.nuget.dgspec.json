@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj": {}
+    "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj": {}
   },
   "projects": {
-    "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj": {
+    "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj",
+        "projectUniqueName": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj",
         "projectName": "ProductManagement.Api",
-        "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/ProductManagement.Api.csproj",
+        "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/ProductManagement.Api.csproj",
         "packagesPath": "/Users/busracelebi/.nuget/packages/",
-        "outputPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Api/obj/",
+        "outputPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/busracelebi/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj": {
-                "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj"
+              "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj": {
+                "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj": {
+    "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj",
+        "projectUniqueName": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj",
         "projectName": "ProductManagement.Repository",
-        "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj",
+        "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj",
         "packagesPath": "/Users/busracelebi/.nuget/packages/",
-        "outputPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/obj/",
+        "outputPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/busracelebi/.nuget/NuGet/NuGet.Config"
@@ -149,14 +149,14 @@
         }
       }
     },
-    "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj": {
+    "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj",
+        "projectUniqueName": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj",
         "projectName": "ProductManagement.Services",
-        "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/ProductManagement.Services.csproj",
+        "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/ProductManagement.Services.csproj",
         "packagesPath": "/Users/busracelebi/.nuget/packages/",
-        "outputPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Services/obj/",
+        "outputPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/busracelebi/.nuget/NuGet/NuGet.Config"
@@ -171,8 +171,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj": {
-                "projectPath": "/Users/busracelebi/RiderProjects/ProductManagement/ProductManagement.Repository/ProductManagement.Repository.csproj"
+              "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj": {
+                "projectPath": "/Users/busracelebi/RiderProjects/TestPro/ProductManagement.Repository/ProductManagement.Repository.csproj"
               }
             }
           }
