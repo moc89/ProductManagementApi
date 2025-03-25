@@ -1,12 +1,12 @@
 # Product Management API
 
 ## Overview
-The **Product Management API** is a RESTful web service built with ASP.NET Core that allows clients to manage product data. It provides endpoints for retrieving product lists, creating new products, and generating mock reports.
+The **Product Management API** is a RESTful web service built with .NET9 that allows clients to manage product data. It provides endpoints for retrieving product lists, creating new products, and generating mock reports.
 
 ## Technologies Used
-- **ASP.NET Core** for building the API
+- **.NET 9** for building the API (
 - **C#** for backend development
-- **Microsoft.AspNetCore.Mvc** for API controllers
+- **Swagger** for API documentation.
 - **Dependency Injection** for managing services
 - **Task-based Asynchronous Pattern (TAP)** for asynchronous operations
 - **Logging (Console Logging as a placeholder, recommended: Serilog)**
@@ -66,8 +66,7 @@ The **Product Management API** is a RESTful web service built with ASP.NET Core 
 
 ## Improvements & Next Steps
 - Implement proper logging with **Serilog** or another logging provider.
-- Add **Unit Tests** for the controller and service layers.
-- Use **Swagger** for API documentation.
+- Add **Unit Tests** service layers.
 - Implement a database (e.g., **SQL Server, PostgreSQL**) for persistent data storage.
 
 ## License
