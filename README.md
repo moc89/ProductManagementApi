@@ -24,10 +24,15 @@ The **Product Management API** is a RESTful web service built with .NET9 that al
 #### Request Body:
 ```json
 {
-    "id": 1,
-    "name": "Product Name",
-    "price": 100.00
-}
+        "id": 1,
+        "category": "Electronics",
+        "name": "Wireless Headphones",
+        "productCode": "WH1000XM4",
+        "price": 299.99,
+        "sku": "ELEC-12345",
+        "stockQuantity": 50,
+        "dateAdded": "2025-03-15T16:04:29.154556Z"
+    },
 ```
 #### Response:
 - **200 OK**: Returns `true` if the product was created successfully.
