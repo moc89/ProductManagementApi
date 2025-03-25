@@ -47,7 +47,7 @@ The **Product Management API** is a RESTful web service built with .NET9 that al
 ## Setup & Installation
 
 ### Prerequisites
-- .NET SDK (latest version recommended)
+- .NET 9 (latest version recommended)
 - An IDE like Visual Studio, Visual Studio Code, or JetBrains Rider
 
 ### Steps to Run
@@ -67,7 +67,7 @@ The **Product Management API** is a RESTful web service built with .NET9 that al
    ```sh
    dotnet run
    ```
-5. The API will be available at `https://localhost:5001/api/product`
+5. The API will be available at `https://localhost:5276/api/product`
 
 ## Improvements & Next Steps
 - Implement proper logging with **Serilog** or another logging provider.
