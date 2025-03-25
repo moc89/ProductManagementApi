@@ -4,7 +4,7 @@
 The **Product Management API** is a RESTful web service built with .NET9 that allows clients to manage product data. It provides endpoints for retrieving product lists, creating new products, and generating mock reports.
 
 ## Technologies Used
-- **.NET 9** for building the API (
+- **.NET 9** for building the API (.NET Core 3.1 has reached end-of-life (EOL) as of December 13, 2022 and is no longer officially available for download from Microsoft. And .NET Core has been rebranded to just .NET since .NET 5. So, this project needs the latest .NET SDK instead.)
 - **C#** for backend development
 - **Swagger** for API documentation.
 - **Dependency Injection** for managing services
